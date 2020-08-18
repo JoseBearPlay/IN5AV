@@ -5,13 +5,20 @@ body{
 h1{
     font-family: 'Times New Roman';
     font-size: 25px;
-    color: blue;
+    color:black;
     align-content: right;
 }
 
 p{
     font-family: verdana;
     font-size: 15px;
-    color: purple;
+    color: firebrick;
 }
+
+p1{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: yellow;
+}
+
 
