@@ -1,18 +1,16 @@
-body{
-    background-color: gray;
-}
+
 
 h1{
     font-family: 'Times New Roman';
-    font-size: 25px;
-    color:black;
+    font-size: 35px;
+    color:gray;
     align-content: right;
 }
 
 p{
     font-family: verdana;
     font-size: 15px;
-    color: firebrick;
+    color: chocolate;
 }
 
 p1{
